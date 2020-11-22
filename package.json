@@ -1,5 +1,5 @@
 {
-  "name": "ds-linksOnly-bot",
+  "name": "ds-onlylinks-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,9 @@
     "discord.js": "^12.4.1",
     "dotenv": "^8.2.0",
     "eslint": "^7.14.0"
+  },
+  "engines": {
+    "node": "13.x",
+    "npm": "*"
   }
 }
